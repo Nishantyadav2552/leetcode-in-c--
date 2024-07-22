@@ -1,11 +1,12 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 class Solution {
 public:
-    bool divisorGame(int n) {
+    vector<int> selfDividingNumbers(int left, int right) {
         
     }
 };
 int main(){
-    
+
 }
